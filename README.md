@@ -1,4 +1,4 @@
-# AI Interview Prep Platform
+# AI Interview Platform
 
 An AI-powered interview preparation platform that analyzes a candidate's resume, self-description, and job description to generate a personalized interview report.
 
